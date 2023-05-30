@@ -1,0 +1,4 @@
+main:
+	g++ -o -O3 main main.cpp
+clean:
+	del *.o main.exe
